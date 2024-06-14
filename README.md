@@ -2,3 +2,5 @@
 This repo is just a test repo for learning
 # Student
 Hello World
+# Teacher
+Hello Student
